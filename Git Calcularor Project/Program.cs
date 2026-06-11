@@ -17,6 +17,10 @@ namespace Git_Calcularor_Project
             Substraction substraction = new Substraction(); 
              double B =   substraction .Subtract(10, 5);
             Console.WriteLine("The result of substraction is: " + B);
+
+            division division = new division(); 
+             double C =  division .Divide(10, 5);
+            Console.WriteLine("The result of division is: " + C);
         }
     } 
 }
