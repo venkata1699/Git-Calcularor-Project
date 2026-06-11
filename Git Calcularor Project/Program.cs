@@ -21,6 +21,12 @@ namespace Git_Calcularor_Project
             division division = new division(); 
              double C =  division .Divide(10, 5);
             Console.WriteLine("The result of division is: " + C);
+
+
+            Mulitply mulitply = new Mulitply();
+            double D = substraction.Subtract(10, 5);
+            Console.WriteLine("The result of substraction is: " + D);
+
         }
     } 
 }
