@@ -8,9 +8,9 @@ namespace Git_Calcularor_Project
 {
     internal class Mulitply
     {
-        public int mul(int num, int num1)
+        public double Add(double num1, double num2)
         {
-            return num + num1;
+            return num1 + num2;
         }
     }
 }
