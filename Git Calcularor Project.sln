@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Git Calcularor Project", "Git Calcularor Project\Git Calcularor Project.csproj", "{4E2F990F-2767-406B-BAA9-43B2B1D23889}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E2F990F-2767-406B-BAA9-43B2B1D23889}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E2F990F-2767-406B-BAA9-43B2B1D23889}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E2F990F-2767-406B-BAA9-43B2B1D23889}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E2F990F-2767-406B-BAA9-43B2B1D23889}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {61373FA6-ECA1-4C07-8164-F7D4A2CA8FD1}
+	EndGlobalSection
+EndGlobal
