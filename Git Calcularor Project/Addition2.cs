@@ -8,5 +8,6 @@ namespace Git_Calcularor_Project
 {
     internal class Addition2
     {
+      public,ic
     }
 }
