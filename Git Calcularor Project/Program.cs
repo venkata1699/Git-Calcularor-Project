@@ -10,8 +10,10 @@ namespace Git_Calcularor_Project
     {
         static void Main(string[] args)
         {
+           Addition addition = new Addition();  
+           double A =  addition .Add(5, 10);
             //Addition addition = new Addition();
-            //double A = addition.Add(5, 10);
+
             //Console.WriteLine("The result of addition is: " + A);
 
             Substraction substraction = new Substraction(); 
