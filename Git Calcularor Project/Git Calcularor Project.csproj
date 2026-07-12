@@ -44,6 +44,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Addition.cs" />
+    <Compile Include="Addition2.cs" />
     <Compile Include="division.cs" />
     <Compile Include="Mulitply.cs" />
     <Compile Include="Program.cs" />
