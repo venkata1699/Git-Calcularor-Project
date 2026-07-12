@@ -46,6 +46,7 @@
     <Compile Include="Addition.cs" />
     <Compile Include="Addition2.cs" />
     <Compile Include="division.cs" />
+    <Compile Include="divison _two.cs" />
     <Compile Include="Mulitply.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

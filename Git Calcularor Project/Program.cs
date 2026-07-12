@@ -12,6 +12,8 @@ namespace Git_Calcularor_Project
         {
            Addition addition = new Addition();  
            double A =  addition .Add(5, 10);
+            //Addition addition = new Addition();
+
             //Console.WriteLine("The result of addition is: " + A);
 
             Substraction substraction = new Substraction(); 
